@@ -58,12 +58,25 @@
 			"message1": "            Edit the form and notice how the values persist after you refresh!\n        ",
 			"message2": "            Edit the form and notice how the values persist after you refresh!\n        ",
 			"message3": "            Edit the form and notice how the values persist after you refresh!\n        "
+		},
+		{
+			"message1": "            Edit the form and notice how the values persist after you refresh!\n        ",
+			"message2": "            Edit the form and notice how the values persist after you refresh!\n        ",
+			"message3": "            Edit the form and notice how the values persist after you refresh!\n        "
+		},
+		{
+			"message1": "            Edit the form and notice how the values persist after you refresh!\n        ",
+			"message2": "            Edit the form and notice how the values persist after you refresh!\n        ",
+			"message3": "            Edit the form and notice how the values persist after you refresh!\n        "
 		}
 	],
 	"message4": "            Edit the form and notice how the values persist after you refresh!\n        ",
 	"message5": "            Edit the form and notice how the values persist after you refresh!\n        ",
 	"message6": "            Edit the form and notice how the values persist after you refresh!\n        ",
 	"collection1": [
+		{
+			"message7": "AAAA"
+		},
 		{
 			"message7": "BBBBB"
 		}
